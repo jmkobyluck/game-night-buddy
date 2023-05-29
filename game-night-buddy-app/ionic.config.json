@@ -1,0 +1,7 @@
+{
+  "name": "game-night-buddy-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
